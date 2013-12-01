@@ -1,0 +1,22 @@
+
+               _____
+              /    /
+             /    /
+            /____/
+     _______  
+    |       |
+    |_______|
+            _____
+            \    \
+             \    \
+              \____\
+
+Essence - Racing, Distilled
+
+A minimalistic racing game
+    in under 5000 bytes
+
+     See the video at
+http://youtu.be/zz7cor7WviQ
+
+   (c) 2013 William W Wu

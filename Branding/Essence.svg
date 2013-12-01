@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Essence.svg"
+   inkscape:export-filename="C:\Users\William\Documents\Processing\FiveK\video\Essence5.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1434.4002"
+     inkscape:cy="242.24496"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-center="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="64px"
+       spacingy="64px"
+       originx="64px"
+       originy="32px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,27.637847)">
+    <g
+       id="g3822"
+       transform="translate(53.142841,35.879989)">
+      <rect
+         ry="13.821886"
+         y="266.66028"
+         x="740.59625"
+         height="91.40377"
+         width="182.80754"
+         id="rect2987"
+         style="color:#000000;fill:none;stroke:#ff0000;stroke-width:7.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <use
+         style="fill:none;stroke:#ff0000;stroke-width:7.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="1080"
+         width="1920"
+         transform="matrix(0.59898564,0.80075976,-0.80075976,0.59898564,711.77102,-385.53764)"
+         id="use3759"
+         xlink:href="#rect2987"
+         y="0"
+         x="0" />
+      <use
+         style="fill:none;stroke:#ff0000;stroke-width:7.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         height="1080"
+         width="1920"
+         transform="matrix(1,0,0,-1,-7.8662109e-7,624.72431)"
+         id="use3761"
+         xlink:href="#use3759"
+         y="0"
+         x="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:41.89791489px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffc800;fill-opacity:1;stroke:none;font-family:Tunga;-inkscape-font-specification:Tunga"
+       x="445.46872"
+       y="764.04346"
+       id="text2994"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2996"
+         x="445.46872"
+         y="764.04346"
+         style="font-size:301.66500854px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;fill:#ffc800;fill-opacity:1;font-family:Trench;-inkscape-font-specification:Trench Ultra-Light">essence</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Tunga;-inkscape-font-specification:Tunga"
+       x="460.62955"
+       y="774.93396"
+       id="text3766"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-27.637847)"><tspan
+         sodipodi:role="line"
+         id="tspan3768"
+         x="460.62955"
+         y="774.93396" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:47.8198967px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Trench;-inkscape-font-specification:Trench Ultra-Light"
+       x="448"
+       y="878.75439"
+       id="text3770"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="448"
+         y="878.75439"
+         style="font-size:172.15162659px;font-weight:200;-inkscape-font-specification:Trench Ultra-Light"
+         id="tspan3829"><tspan
+           style="font-size:172.15162659px;font-weight:200;fill:#9f9f9f;fill-opacity:1;-inkscape-font-specification:Trench Ultra-Light"
+           id="tspan3774"><tspan
+             style="fill:#b3b3b3"
+             id="tspan3003">racing, </tspan></tspan><tspan
+           id="tspan3816"
+           style="font-size:172.15162659px;font-weight:200;fill:#7fbbf0;fill-opacity:1;-inkscape-font-specification:Trench Ultra-Light">distilled</tspan></tspan></text>
+  </g>
+</svg>
